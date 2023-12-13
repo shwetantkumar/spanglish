@@ -118,7 +118,7 @@ menu:
       - label: "Immigration"
         link: "/exhibits/immigration/"
       - label: "Citizenship and Belonging"
-        link: "/exhibits/citizenship-and-belonging/"
+        link: "/exhibits/citizenship-and-belonging"
   - label: "Browse"
     link: "/collection/"
   - label: "Search"
