@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: tweets
-  pid: obj10
+  pid: Obj_10
   y: 25%
   clickable: yes
   height: "500px"
