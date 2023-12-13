@@ -6,24 +6,14 @@ permalink: /collection/
 
 This site's collection comprises a curated set of tweets, each represented by an image that is hyperlinked to the original tweet. In case of obsolescence or change of privacy settings, the image will serve as a record of the tweet.
 
-## By Location
+## By Tags
 
-{% include collection_gallery.html facet_by='location' collection='tweets' %}
+{% include collection_gallery.html facet_by='_tags' collection='tweets' %}
 
 ## By Object Type
 
-### Manuscripts
+{% include collection_gallery.html facet_by='object_type' collection='tweets' %}
 
-{% include collection_gallery.html facet_by='object_type' only='manuscript' collection='tweets' %}
+## By Location
 
-### Portraits
-
-{% include collection_gallery.html facet_by='object_type' only='portrait' collection='tweets' %}
-
-### Maps
-
-{% include collection_gallery.html facet_by='object_type' only='map' collection='tweets' %}
-
-### Panels
-
-{% include collection_gallery.html facet_by='object_type' only='panel' collection='tweets' %}
+{% include collection_gallery.html facet_by='current_location' collection='tweets' %}
