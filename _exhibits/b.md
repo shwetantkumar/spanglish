@@ -19,6 +19,6 @@ The United States makes up one of the largest Spanish-speaking countries in the 
 <img src="https://github.com/shwetantkumar/spanglish/blob/main/img/b.jpg" alt="Citizenship and Belonging">
 
 ### Bibliography
-- King, Carianne. 2015. “‘I’m Not A Criminal’ - Hashtag Campaign Organizes Latino Voters Against Donald Trump.” Newsletter. SocialMediaToday. July 13, 2015. https://www.socialmediatoday.com/marketing/carianneking/2015-07-13/im-not-criminal-hashtag-campaign-organizes-latino-voters-against.
+- King, Carianne. 2015. “‘I’m Not A Criminal’ - Hashtag Campaign Organizes Latino Voters Against Donald Trump.” Newsletter. SocialMediaToday. July 13, 2015. [https://www.socialmediatoday.com/marketing/carianneking/2015-07-13/im-not-criminal-hashtag-campaign-organizes-latino-voters-against](https://www.socialmediatoday.com/marketing/carianneking/2015-07-13/im-not-criminal-hashtag-campaign-organizes-latino-voters-against).
 - Sánchez-Muñoz, Ana, and Angélica Amezcua. 2019. “Spanish as a Tool of Latinx Resistance against Repression in a Hostile Political Climate.” Chiricú Journal: Latina/o Literatures, Arts, and Cultures, Intersecting Latinx Lives: The Politics of Race, 3 (2): 59–76.
-- Slaughter, Stephany. 2017. “#TrumpEffects: Creating Rhetorical Spaces for Latinx Political Engagement.” Online Library. Wiley. January 12, 2017. https://onlinelibrary.wiley.com/doi/full/10.1111/tla.12095.
+- Slaughter, Stephany. 2017. “#TrumpEffects: Creating Rhetorical Spaces for Latinx Political Engagement.” Online Library. Wiley. January 12, 2017. [https://onlinelibrary.wiley.com/doi/full/10.1111/tla.12095](https://onlinelibrary.wiley.com/doi/full/10.1111/tla.12095).
