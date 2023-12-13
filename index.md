@@ -2,8 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: tweets
-  pid: Obj_10
+  <img src="https://github.com/shwetantkumar/spanglish/blob/22e3555d2128e7c732772372526a4afd6df7acf3/img/banner.jpg" alt="Banksy">
   y: 25%
   clickable: yes
   height: "500px"
