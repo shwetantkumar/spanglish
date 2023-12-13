@@ -20,7 +20,7 @@ During his presidency, Donald Trump fervently advocated for the construction of 
 
 As the Latinx community in Los Angeles engaged in these discussions and resisted policies through activism across physical and online platforms, it not only navigated the challenges imposed by Trump's administration but also contributed to a broader dialogue on immigration that transcended regional boundaries and resonated nationwide. #AbolishICE, #DefendDACA, and #noborderwall were instrumental to the creation of resistance and expressions of discomfort regarding immigration during Trump’s administration.
 
-![Immigration Timeline](/img/a.jpg)
+<img src="{{site.baseurl}}/img/a.jpg">
 
 ### Bibliography
 - Chen, Shawna, and Russel Contreras. 2023. “California’s Falling Undocumented Immigrant Population.” Axios. Axios - San Francisco (blog). November 29, 2023. [https://www.axios.com/local/san-francisco/2023/11/29/undocumented-immigrant-population-california-decline](https://www.axios.com/local/san-francisco/2023/11/29/undocumented-immigrant-population-california-decline).
