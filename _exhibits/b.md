@@ -16,7 +16,7 @@ On February 16, 2017, a national #DayWithoutImmigrants saw dozens of businesses 
 
 The United States makes up one of the largest Spanish-speaking countries in the world, with the city of Los Angeles containing one of the largest majorities of Latinx immigrants nationwide. The emergence of social media, especially Twitter, as a powerful tool for community organizing within Latinx populations is vividly illustrated through these initiatives. The #SomosMitu and #ImNotACriminal campaign, #DayWithoutImmigrants strike, and related movements highlight the role of digital platforms in fostering a sense of citizenship and belonging among Latinx communities. In an era marked by divisive political rhetoric, these online movements have provided a vital space for Latinx voices, harnessing the power of bilingualism and digital engagement to create inclusive narratives and promote active civic participation. This trend underscores the evolving nature of political activism, where social media serves not just as a medium for communication, but as a dynamic arena for cultural affirmation and political mobilization.
 
-<img src="https://github.com/shwetantkumar/spanglish/blob/main/img/b.jpg" alt="Citizenship and Belonging">
+<img src="{{site.baseurl}}/img/b.jpg">
 
 ### Bibliography
 - King, Carianne. 2015. “‘I’m Not A Criminal’ - Hashtag Campaign Organizes Latino Voters Against Donald Trump.” Newsletter. SocialMediaToday. July 13, 2015. [https://www.socialmediatoday.com/marketing/carianneking/2015-07-13/im-not-criminal-hashtag-campaign-organizes-latino-voters-against](https://www.socialmediatoday.com/marketing/carianneking/2015-07-13/im-not-criminal-hashtag-campaign-organizes-latino-voters-against).
