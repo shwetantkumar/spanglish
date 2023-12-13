@@ -17,35 +17,44 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'LAtinX'
-description:      'Bilingualism as Protest in the Trump Era'
-url:              'https://minicomp.github.io'
-baseurl:          '/home'
-copyright:        '2023'
-logo:             '/assets/logo.png'
-default_thumb:    '/assets/default.png'
+title: "LAtinX"
+description: "Bilingualism as Protest in the Trump Era"
+url: "https://minicomp.github.io"
+baseurl: "/spanglish"
+copyright: "2023"
+logo: "/assets/logo.png"
+default_thumb: "/assets/default.png"
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-permalink: 'pretty'
+permalink: "pretty"
 sass:
   style: compressed
-exclude: ["Gemfile*", "*.gemspec", "Rakefile", "vendor", "spec", "README.md", "LICENSE.txt", "Docker*"]
+exclude:
+  [
+    "Gemfile*",
+    "*.gemspec",
+    "Rakefile",
+    "vendor",
+    "spec",
+    "README.md",
+    "LICENSE.txt",
+    "Docker*",
+  ]
 webrick:
   headers:
-    'Access-Control-Allow-Origin': '*'
+    "Access-Control-Allow-Origin": "*"
 kramdown:
- auto_ids:       true
- footnote_nr:    1
- entity_output:  as_char
- footnote_backlink: "&#x21a9;&#xfe0e;"
- toc_levels:     1..6
- smart_quotes:   lsquo,rsquo,ldquo,rdquo
- enable_coderay: false
-
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -59,13 +68,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  tweets: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: "tweets_item" # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: "tweets.csv" # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: "raw_images/tweets" # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -77,9 +86,9 @@ collections:
 
 search:
   main:
-    index: '/search/index.json' # file the index will get written to
+    index: "/search/index.json" # file the index will get written to
     collections:
-      qatar:
+      tweets:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
@@ -98,24 +107,24 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: "About"
     sub:
-      - label: 'This Project'
-        link: '/about/'
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Exhibits'
+      - label: "This Project"
+        link: "/about/"
+      - label: "Credits"
+        link: "/credits/"
+  - label: "Exhibits"
     sub:
-      - label: 'Immigration'
-        link: '/exhibits/immigration/'
-      - label: 'Citizenship and Belonging'
-        link: '/exhibits/citizenship-and-belonging/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+      - label: "Immigration"
+        link: "/exhibits/immigration/"
+      - label: "Citizenship and Belonging"
+        link: "/exhibits/citizenship-and-belonging/"
+  - label: "Browse"
+    link: "/collection/"
+  - label: "Search"
+    link: "/search/"
+  - label: "Reuse"
+    link: "/reuse/"
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -124,11 +133,10 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
-      link: '/credits'
-    - label: 'Wiki'
-      link: 'https://minicomp.github.io/wiki/wax/'
-
+    - label: "GitHub"
+      link: "https://github.com/minicomp/wax"
+    - label: "Credits"
+      link: "/credits"
+    - label: "Wiki"
+      link: "https://minicomp.github.io/wiki/wax/"
 # FIN
