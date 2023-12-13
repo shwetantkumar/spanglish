@@ -22,8 +22,8 @@ description: "Bilingualism as Protest in the Trump Era"
 url: "https://shwetantkumar.github.io"
 baseurl: "/spanglish"
 copyright: "2023"
-logo: "/assets/logo.png"
-default_thumb: "/assets/default.png"
+logo: "/assets/banner.png"
+default_thumb: "/assets/banner.png"
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
