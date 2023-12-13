@@ -13,6 +13,4 @@ banner:
 
 ### Browse the Collection
 
-#### By Item Type
-
-{% include collection_gallery.html facet_by='object_type' collection='tweets' %}
+{% include collection_gallery.html collection='tweets' %}
