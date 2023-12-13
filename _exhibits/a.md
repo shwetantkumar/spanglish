@@ -20,4 +20,4 @@ During his presidency, Donald Trump fervently advocated for the construction of 
 
 As the Latinx community in Los Angeles engaged in these discussions and resisted policies through activism across physical and online platforms, it not only navigated the challenges imposed by Trump's administration but also contributed to a broader dialogue on immigration that transcended regional boundaries and resonated nationwide. #AbolishICE, #DefendDACA, and #noborderwall were instrumental to the creation of resistance and expressions of discomfort regarding immigration during Trump’s administration.
 
-<img src="/img/a.jpg" alt="Immigration Timeline">
+<img src="https://github.com/shwetantkumar/spanglish/blob/main/img/b.jpg" alt="Immigration Timeline">
