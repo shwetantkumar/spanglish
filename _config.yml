@@ -17,11 +17,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'LAtinX'
+description:      'Bilingualism as Protest in the Trump Era'
 url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2023'
+baseurl:          '/home'
+copyright:        '2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
@@ -83,11 +83,12 @@ search:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
-          - location
           - label
           - _date
+          - _tags
           - object_type
           - current_location
+          - source
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -99,18 +100,16 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'This Project'
         link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
+      - label: 'Immigration'
+        link: '/exhibits/immigration/'
+      - label: 'Citizenship and Belonging'
+        link: '/exhibits/citizenship-and-belonging/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
@@ -131,7 +130,5 @@ footer:
       link: '/credits'
     - label: 'Wiki'
       link: 'https://minicomp.github.io/wiki/wax/'
-  logos:
-    - img: '/img/logo.png'
 
 # FIN

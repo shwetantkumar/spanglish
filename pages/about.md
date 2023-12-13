@@ -1,48 +1,22 @@
 ---
 layout: page
-title: What is Wax?
+title: About This Project
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+The Trump presidency marked the beginning of an especially divisive moment in the political sphere. With specific racist and ethnically exclusive rhetorics moving further into the mainstream, and an ever-increasing public presence on social media, we bore witness to collective correspondence like never before.
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+Our project hopes to illustrate the defense of LatinX communities and coalitions as illustrated through cultural objects, in this case Tweets, that we believe easily and accessibly reflect the work of activists. We have identified the Trump Presidency as the most identifiable surge of discourses on social media that reflect these processes in the context of emergent neo-nationalist sentiment. Specifically, we hope to collect data originating from Los Angeles County in California to best represent racial, ethnic, and political diversity over a relatively confined area.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+Through digital tools, we hoped to illustrate different ways that activists have identified with their ethnic and racial backgrounds. We specifically aimed to highlight the way that conversations around citizenship and immigration are enriched by incorporation of the unique experience of Latin American diasporic communities in Los Angeles. To illustrate this appealingly, and with an emphasis on examples found in the modern era, we turned to social media. Twitter (or X as it is now referred) provided a publically accessible medium for the disclosure of politically and otherwise societally motivated sentiments, while also providing specific search capabilities once we had identified terms of interest.
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+We envisioned a static archive to enable viewers to explore hashtags and social movements they may not be familiar with, paired with screenshots of related Tweets to aid in the illustration of specific socially determined linguistic phenomena. 
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+This team determined analysis of these goings-on, in the perspective of this medium, to be our desired method of demonstrating how ethnic groups go about expressing the sentiments they identify with and how members of these groups define themselves in the context of these movements. As we assembled lists of hashtags we decided were of greatest consequence, as we employed geolocators and came to the conclusion that Los Angeles County, California, best represents the ethnic melting pot we had hoped to capture, we began to acknowledge the impossibility of capturing every point of data, every perspective. We understand that in any such agglomeration of identity affiliations, there will be some ideal, some story, some person who is unaccounted for. We hope to have represented as many opinions and likenesses as possible.
 
-## Who is Wax for?
+**Afterword**<br>
+Our data mainly consists of tweets we identified as commentary on political goings-on beginning with the Trump Presidency. Using specific geolocator tags we were able to source a majority of statements from the county of Los Angeles in California. We identified this area as a major site of political unrest with a specific emphasis on racial inequalities. In a region so concentrated with ethnic minorities, with such a rich history of immigration and a large racially diverse population, we believed the social media correspondences would best reflect a wide array of sentiments.
 
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
+First identifying hashtags that meant a great deal to these movements, we were able to assemble more general understandings of the events transpiring at the time. We initially struggled to limit the scope of such ideological expressions to the Trump era, until we identified specific tweet search parameters that allowed us to filter tweets under the hashtags based on date published.
 
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://studentcouncil.college.columbia.edu/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}" alt="workflow diagram for wax process"/>
-</a>
+We also found difficulty quantifying the popularity of hashtags, as most software enabling front-end usage tracking had some sort of cost associated. Ultimately, we were introduced by Professor Gil to the Google Chrome plug-in that we would ultimately employ to render a more conclusive analysis of tweets connected to the hashtags we designated as significant.

@@ -3,7 +3,7 @@
 {% assign id = include.id | default: include | jsonify | slugify %}
 
 {% if include.only.size > 0 %}
-  {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
+{% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
 {% else %}
   {% assign subset = nil %}
 {% endif %}

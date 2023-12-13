@@ -1,13 +1,57 @@
-pid,artist,location,label,_date,object_type,current_location,source
-obj1,Al-Hajj Hafiz Muhammad Nuri,Turkey,The Dala'il al-Khayrat of al-Juzuli,1801,manuscript,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Turkey,_1801_-_The_Dala%27il_al-Khayrat_of_al-Juzuli_-_Google_Art_Project.jpg"
-obj2,Unknown,Egypt,Sulwan Al-Muta'a,14th century,manuscript,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg"
-obj3,Unknown,Egypt,Map of the World,15th century,map,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Egypt,_15th_Century_-_Map_of_World_-_Google_Art_Project.jpg"
-obj4,Unknown,Iran,"Faridun crosses the River Dijla, fol. 33v",1525 - 1535,manuscript,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran_-_Page_from_the_Shahnama_of_Shah_Tahmasp_-_Google_Art_Project.jpg"
-obj5,Unknown,Iran,Panel from Iran,1600 - 1625,panel,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran_-_Panel_from_Iran_-_Google_Art_Project.jpg"
-obj6,Unknown,Iran,Diwan of Jami Manuscript,16th century,manuscript,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Diwan_of_Jami_Manuscript_-_Google_Art_Project.jpg"
-obj7,Unknown,Iran,Page from the Shahnama,1525 - 1535,manuscript,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Page_from_the_Shahnama_-_Google_Art_Project.jpg"
-obj8,Unknown,Iran,Silk Tapestry Depicting the story of Leila and Majnun,1550 - 1650,panel,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_or_16th_Century_-_Silk_Tapestry_Depicting_the_story_of_Leila_and_Majnun_-_Google_Art_Project.jpg"
-obj9,Mihr 'Ali,Iran,Portrait of Fath 'Ali Shah,1816,portrait,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Mihr_%27Ali,_Iran,_1816_-_Portrait_of_Fath_%27Ali_Shah_-_Google_Art_Project.jpg"
-obj10,Unknown,Iran,Portrait of Hasan 'Ali Mirza Shuja al-Saltana,1800 - 1850,portrait,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Century_-_Portrait_of_Hasan_%27Ali_Mirza_Shuja_al-Saltana_-_Google_Art_Project.jpg"
-obj11,Unknown,Iran,Portrait of Sheikh Ali Mirza,1800 - 1850,portrait,"The Museum of Islamic Art, Qatar","https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Century_-_Portrait_of_Sheikh_Ali_Mirza_-_Google_Art_Project.jpg"
-obj12,"Bahādur Fīrūz, ʻAbd Allāh Khān",Middle East and North Africa,Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في الخيول),Around 1628 - 1658,manuscript,Qatar National Library,https://www.wdl.org/en/item/10668/
+pid,artist,label,_date,_tags,object_type,current_location,source
+Obj_01,@SJSACADEMY,Familia es todo. Esta famila no es diferente a la tuya. Deportation leaves a trail of trauma and poverty for all involved,"May 22, 2019","#AbolishICE, #TrumpsAmerica, #FamiliesBelongTogether","Photo, Tweet","Antioch, CA",https://twitter.com/SJSACADEMY/status/1131065222892933122
+Obj_02,@juniecamino,Here’s two words that Trump supporters need to know; common sense ,"May 14, 2020","#AbolishICE, #fucktrump, #Trump",Tweet,"Los Angeles, CA",https://twitter.com/juniecamino/status/1260863694516260864
+Obj_03,@YouthJusticeLA,This is how #OccupyICELA does it. Block party for liberation! ,"July 4, 2018","#OccupyICELA, #LAagainstICE","Photo, Tweet","Los Angeles, CA",https://twitter.com/YouthJusticeLA/status/1014689926527442945
+Obj_04,@GroundGameLA,Day 88 ,"June 22, 2019","#AbolishICE, #OccupyICELA","Photo, Tweet","Los Angeles, CA",https://twitter.com/GroundGameLA/status/1142538931784732673
+Obj_05,@cultguerrilla,No Borders or nations just people!,"June 30, 2018","#LAAgainstICE, #AbolishICE ","Photo, Tweet",USA,https://twitter.com/cultguerrilla/status/1012970318204243968
+Obj_06,@drloisweiner,Aviso #LosAngeles fighting ICE,"June 22, 2018",#LAAgainstICE ,Tweet,"New York, NY",https://twitter.com/drloisweiner/status/1010339728292491264
+Obj_07,@ReporterClaudia,Another view of the protest this evening at #LA City Hall. #DACA @knx1070,"September 5th, 2017","#DACA, #LA","Video, Tweet","Los Angeles, CA",https://twitter.com/ReporterClaudia/status/905251070863065088?s=20
+Obj_08,@AdamBAMN,#LA #LosAngeles #HighSchool #Walkout #Protest Defend & Expand #Sanctuary Cities & Campuses #NoTrumpTyranny Defend #DACA & #DAPA 11.14.16,"November 14, 2016","#DACA, #LA, #NoTrumpTryanny ","Photo, Tweet","Los Angeles, CA",https://x.com/AdamBAMN/status/798301933064704000?s=20
+Obj_09,@KarlxBaumann,"Protest against 
+@realDonaldTrump
+ #DACArepeal in front of LA City Hall right now 🇺🇸🏙 #DACAprotest #LA #DACA #LaborDay","September 5, 2017","#DACA, #DACAprotest","Photo, Tweet","Los Angeles, CA",https://twitter.com/KarlxBaumann/status/905254021786517504?s=20
+Obj_10,@Monica4LA,"Still marching!
+
+#daca #dacadreamers #dacaprotest #hereishome","November 12, 2019","#DACA, #DACAprotest, #hereishome","Photo, Tweet","Los Angeles, CA",https://twitter.com/Monica4LA/status/1194411358588030977
+Obj_11,@Gittelrock,"A young protester @ #DACAprotest, Placita Olvera, downtown LA #defendDACA #DACA #DACArepeal","September 5, 2017","#DACA, #DefendDACA, #DACAprotest","Photo, Tweet","Los Angeles, CA",https://twitter.com/Gittelrock/status/905238400554463232?s=20
+Obj_12,@zhshar,#UCLA marching in support of #DACA students at the #DACAprotest in LA,"September 10, 2017","#DACA, #DACAprotest","Photo, Tweet","Los Angeles, CA",https://twitter.com/zhshar/status/907017570112364544?s=20
+Obj_13,@FerrerasMarlene,Seguiremos en la lucha #DefendDACA #DACA #DACAprotest,"September 6, 2017",#DefendDACA #DACA #DACAprotest,"Video, Tweet","Los Angeles, CA",https://twitter.com/FerrerasMarlene/status/905288387120300032?s=20
+Obj_14,@WaltMancini,"President Trump ended Deferred Action Childhood Arrivals #DACA #DACADreamer #DACAprotest 
+@HildaSolis #LA @CHIRA
+ http://video.dailynews.com/?vcid=32935895&freewheel=92461&sitesection=scng","September 5, 2017","#DACA, #DACA","Photo, Tweet ","Franklinton, LA, CA",https://twitter.com/WaltMancini/status/905232481434996736?s=20
+Obj_15,@nickluca12,Amazing crowd in LA yesterday! #DACA #LosAngeles #ProtectDREAMers #ProtectDACA #DACAprotest,"September 6, 2017","#DACA, #ProtectDREAMers, #ProtectDACA, #DACAprotest","Photo, Tweet","Los Angeles, CA",https://twitter.com/nickluca12/status/905596356307312640?s=20
+Obj_16,@LaResisters,LA #DACAprotest No hate! No fear!,"September 10, 2017",#DACAprotest,"Photo, Tweet","Los Angeles, CA",https://twitter.com/LaResisters/status/907017985377812480?s=20
+Obj_17,@LouisBlanc,"#DACAprotest LA. Protester at LA. City Hall. Where hundreds gathered. 
+@latimes @KTLAnewsdesk","September 6, 2017",#DACAprotest,"Photo, Tweet","Los Angeles, CA",https://twitter.com/LouisBlanc/status/905377978942578688?s=20
+Obj_18,@LouisBlanc,"Protesters of walks including students. Gather LA. City Hall.
+#DACAprotest LA. @LATimes @LaOpinionLA @KTLAnewsdesk","September 6, 2017",#DACAprotest,"Photo, Tweet","Los Angeles, CA",https://twitter.com/LouisBlanc/status/905380733102972928?s=20
+Obj_19,@AskAJAnything,"Making my ""nobody puts DREAMERS in a corner"" sign for the #DACAprotest in LA tomorrow... 😡...I'm so ready to fight the good fight!","September 8, 2017",#DACAprotest,Tweet,"Los Angeles, CA",https://twitter.com/AskAJAnything/status/906209889432641536?s=20
+Obj_20,@SueceeLA,Not far from #LA City Hall #DACAprotest draws big crowd,"September 5, 2017","#DACAprotest, #LA","Photo, Tweet, Embedded Tweet","Los Angeles, CA",https://twitter.com/SueceeLA/status/905262100120969217?s=20
+Obj_21,@NaInningworth,¿Hasta marzo?La preocupación de su futuro está desde que Trump llegó a la presidencia. #DACAprotest #DacaDreamers #DACAStrong #PeriodismoUAN,"September 7, 2017","#DACAProtest, #DACAStrong","Photo, Tweet, Embedded Tweet","Los Angeles, CA",https://twitter.com/NaIllingworth/status/905861878777303040?s=20
+Obj_22,@Bea_latina,1 out of every 2 kids born in California and NY is Latino. We are the future! #imnotacriminal #wearemitu @somosmitu,"June 19, 2015",#WeAreMitu #ImNotACriminal,"Photo, Tweet","Santa Monica, CA",https://twitter.com/Bea_latina/status/612091741299015680?s=20
+Obj_23,@marcoregil,@realDonaldTrump Immigrants are hardworking and courageous people #imnotacriminal,"June 19, 2015",#ImNotACriminal ,"Photo, Tweet","Los Angeles, CA",https://twitter.com/marcoregil/status/612007854698950656
+Obj_24,@nessalessi,"@realDonaldTrump My immigrant parents can only be described as dreamers and doers, not rapists. #imnotacriminal","June 19, 2015",#ImNotACriminal ,"Photo, Tweet","Los Angeles, CA",https://twitter.com/nessalessi/status/612033006170025984
+Obj_25,@nesto_07, Los callejones en LA sin los latinos ✊🏼 #DayWithoutImmigrants,"February 16, 2017",#DayWithoutImmigrants,"Photo, Tweet","Lompoc, CA",https://twitter.com/nesto_07/status/832336863650144256?s=20
+Obj_26,@CondensaRenata,"En diferentes partes de california, se noto la ausencia y el apoyo de la gente, un dia sin inmigrantes, bendiciones y sigamos!","February 16, 2017","No hashtag, but ""un dia sin immigrantes"" mentioned in tweer",Tweet,"Irvine, CA",https://twitter.com/CondesaRenata/status/832401824036499458?s=20
+Obj_27,@ChavezTheRapper,Fuck Trump. Fuck la migra. The border crossed us! #DayWithoutImmigrants,"February 16, 2017",#DayWithoutImmigrants,"Photo, Tweet","Profile says, Houston, TX",https://twitter.com/ChavezTheRapper/status/832276796313841665?s=20
+Obj_28,@ChavezTheRapper,"Aqui estamos! #HeretoStay #HateDebate2016 #daywithoutimmigrants
+","February 16, 2017","#DayWithoutImmigrants, #HeretoStay #HateDebate2016","Photo, Tweet","Houston, TX",https://x.com/ChavezTheRapper/status/832280802478215170?s=20
+Obj_29,@verygr8,#DayWithoutImmigrants This is what class looks like in California without those who protested today.,"February 16, 2017",#DayWithoutImmigrants,"Photo, Tweet",California,https://twitter.com/verygr8/status/832280976927580160
+Obj_30,@alohamode,"It's happening in Los Angeles 👍
+
+#移民のいない一日
+#daywithoutimmigrants
+#UnDiaSinInmigrantes
+@ACLU_SoCal
+
+@LAist
+ 
+@latimes","February 16, 2017","#daywithoutimmigrants
+#UnDiaSinInmigrantes","Photo, Tweet","Los Angeles, CA",https://twitter.com/alohamode/status/832325894916108289
+Obj_31,@tracktheban,A few LA neighborhoods were empty of immigrants today #DayWithoutImmigrants #ADayWithoutImmigrants   http://uscannenbergmedia.com/2017/02/16/santee-alley-workers-participate-in-adaywithoutimmigrants/,"February 16, 2017",#ADayWithoutImmigrants ,Tweet,"Beverly Hills, CA",https://twitter.com/tracktheban/status/832470972552720384
+Obj_32,@afabc_la,Local restaurant supporting immigrant rights! #DayWithoutImmigrants,"February 16, 2017",#DayWithoutImmigrants,"Photo, Tweet","Los Angeles, CA",https://twitter.com/afabc_la/status/832378539223584769?s=20
+Obj_33,@taygoldstein,"Just had a ""Ch***a la Migra!"" (""F**k ICE!"") chant. #DayWithoutImmigrants Aso, more ""Fuera ICE!"" (""Out, ICE!"")","February 16, 2017",#DayWithoutImmigrants,Tweet,"Austin, TX",https://twitter.com/taygoldenstein/status/832347322856177665
+Obj_34,@huichol19,De este tamaño fue la detención de la economía en Los Ángeles; #California. La protesta #UnDiaSinInmigrantes fue éxito total,"February 17, 2017",#UnDiaSinInmigrantes,"Photo,Tweet","Los Angeles, CA",https://twitter.com/huichol19/status/832617637351796736
+Obj_35,@turnignorance,#CBS2News covered our campaign during May Day in Downtown LA. #Turnignorancearound,"May 5, 2016",#Turnignorance,"Video, Tweet","Los Angeles, CA",https://twitter.com/turnignorance/status/728308221237039104
+Obj_36,@georgezstewart,"I filmed the joy, excitement, relief, unity, and celebration in Downtown Los Angeles after the announcement of Biden/Harris’ victory. I hope y’all enjoy the moments I captured in LA❤️ #DTLA #LosAngeles #Election2020 #BidenHarris2020 #DumpTrump #Democracy #JoeBiden #KamalaHarris","November 8, 2020","#DumpTrump, #DTLA","Video, Tweet","Los Angeles, CA",https://twitter.com/georgezstewart/status/1325565487988666368?s=20
+Obj_37,@ToddBigPhoto,More #MayDay2016 #LosAngeles protest. #immigration #Latinovote #DumpTrump #MakeAmericaMexicoAgain #BlackLivesMatter,"May 2, 2016",#MayDay2016,"Photo, Tweet","Los Angeles, CA",https://twitter.com/ToddBigPhoto/status/727258159912353793
